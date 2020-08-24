@@ -1,2 +1,3 @@
 # HelloWorld-
 This is a sample repo for demo purpose 
+This repo will provide detials , how to use git hub
